@@ -1,0 +1,5 @@
+buffer=   1 bytes read_calls=10240 write_calls=10240 total=20480
+buffer= 512 bytes read_calls=   20 write_calls=   20 total=   40
+buffer=4096 bytes read_calls=    3 write_calls=    3 total=    6
+buffer=8192 bytes read_calls=    2 write_calls=    2 total=    4
+Recommendation: larger buffered blocks reduce syscall count; validate latency and memory budget

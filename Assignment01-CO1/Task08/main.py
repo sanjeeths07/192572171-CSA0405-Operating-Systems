@@ -1,0 +1,7 @@
+print("CPU protection model")
+print("User mode: application instructions; cannot execute privileged operations")
+print("Kernel mode: trusted OS code handles system calls and device control")
+print("Trap: synchronous transfer to kernel; interrupt: asynchronous device/timer event")
+print("Timer interrupt: returns CPU control to scheduler for pre-emption")
+print("If user code could disable interrupts: monitor deadlines and system responsiveness could fail")
+print("Memory isolation: MMU checks address permissions on each access")

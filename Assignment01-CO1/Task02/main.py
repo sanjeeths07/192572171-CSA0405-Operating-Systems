@@ -1,0 +1,3 @@
+choices=[("Monitors","Hard real-time","bounded response; deadline misses unacceptable"),("Tablets","Handheld/mobile","power management and wireless support"),("Workstations","Desktop/time-sharing","interactive multi-user applications"),("Database","Clustered","failover and continuous service"),("MRI imaging","Multiprocessor","parallel CPU and I/O throughput"),("Partner hospitals","Distributed","secure communication across sites")]
+for device,kind,why in choices: print(f"{device}: {kind} — {why}")
+print("Rejected: one general-purpose OS everywhere; it cannot guarantee hard deadlines on monitors")

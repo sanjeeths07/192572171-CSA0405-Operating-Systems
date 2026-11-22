@@ -1,0 +1,3 @@
+20 thread create+join elapsed: 0.002193 s
+5 process create+join elapsed: 0.011580 s
+Interpretation: timings vary by host; processes have separate address spaces, threads share process memory

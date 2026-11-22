@@ -1,0 +1,4 @@
+real-time control 256 MB locked/pinned
+machine learning 1536 MB demand-paged
+logging 128 MB buffered
+Total: 1920 MB of 2048 MB; headroom: 128 MB

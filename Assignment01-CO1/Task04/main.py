@@ -1,0 +1,2 @@
+services=[("Program execution","include","required control logic"),("Interrupt/device I/O","include","sensor and storage events"),("File system","minimise on monitor","only configuration/logging if needed"),("Networking","include selectively","authenticated telemetry"),("Protection/security","include","isolate patient data"),("Accounting/UI","reduce on monitor","not needed in alarm path"),("Error detection","include","watchdog and fault reporting")]
+for s,d,r in services: print(f"{s}: {d} — {r}")

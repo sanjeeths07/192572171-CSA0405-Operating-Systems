@@ -1,0 +1,4 @@
+Student: Sanjeeth S
+Register: 192572171
+Task: Distributed and cloud-based storage
+Input dataset is deterministic and declared in main.py.

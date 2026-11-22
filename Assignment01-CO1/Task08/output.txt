@@ -1,0 +1,7 @@
+CPU protection model
+User mode: application instructions; cannot execute privileged operations
+Kernel mode: trusted OS code handles system calls and device control
+Trap: synchronous transfer to kernel; interrupt: asynchronous device/timer event
+Timer interrupt: returns CPU control to scheduler for pre-emption
+If user code could disable interrupts: monitor deadlines and system responsiveness could fail
+Memory isolation: MMU checks address permissions on each access

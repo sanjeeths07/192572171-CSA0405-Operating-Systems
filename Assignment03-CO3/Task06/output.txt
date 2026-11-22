@@ -1,0 +1,5 @@
+RAID0 24 TB usable
+RAID1 12 TB usable
+RAID5 20 TB usable
+RAID6 16 TB usable
+RAID10 12 TB usable

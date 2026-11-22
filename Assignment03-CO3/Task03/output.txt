@@ -1,0 +1,4 @@
+code+20: physical=1020 VALID
+data+799: physical=3799 VALID
+data+800: SEGMENTATION FAULT (limit=800)
+stack+120: physical=5120 VALID

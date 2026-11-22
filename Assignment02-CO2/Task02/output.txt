@@ -1,0 +1,6 @@
+Round Robin quantum=2
+Gantt: J1[0-2] | J2[2-4] | J3[4-5] | J1[5-7] | J4[7-9] | J2[9-10] | J1[10-11]
+J1 completion 11 turnaround 11 waiting 6
+J2 completion 10 turnaround 9 waiting 6
+J3 completion 5 turnaround 3 waiting 2
+J4 completion 9 turnaround 6 waiting 4

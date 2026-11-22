@@ -1,0 +1,4 @@
+Student: Sanjeeth S
+Register: 192572171
+Task: Evaluate memory hierarchy and I/O
+Input dataset is deterministic and declared in main.py.

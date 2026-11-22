@@ -1,0 +1,4 @@
+Local storage: low latency, local control, site failure exposure
+Replicated storage: availability improves; network/consistency overhead
+Object storage: elastic capacity, API access, lifecycle policies
+Controls: TLS, encryption at rest, IAM, versioning, audit and retention

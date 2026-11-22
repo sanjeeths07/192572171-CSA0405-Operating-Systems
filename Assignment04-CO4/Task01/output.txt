@@ -1,0 +1,3 @@
+Flat directory entries: 12000 average linear comparisons: 6000
+Proposed tree: /students/<register-number>/{documents,submissions,shared}
+Private home permissions + project-group ACLs + snapshots + off-host backups

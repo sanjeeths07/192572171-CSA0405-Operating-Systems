@@ -1,0 +1,6 @@
+Bedside monitors: hard real-time OS, minimal services, interrupt-driven I/O
+Tablets: hardened mobile OS, encryption, MDM, battery-aware scheduling
+Workstations: managed desktop OS with endpoint protection
+Records: clustered database, redundant storage and tested backups
+Imaging: multiprocessor server and DMA-capable I/O
+Remote/cloud: distributed services, TLS, identity, audit and recovery

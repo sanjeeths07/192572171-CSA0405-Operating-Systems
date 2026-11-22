@@ -1,0 +1,4 @@
+Process demonstration
+PID=1375 PPID=1242
+State model: NEW -> READY -> RUNNING -> TERMINATED
+PCB: PID, state, registers, program counter, scheduling and memory metadata

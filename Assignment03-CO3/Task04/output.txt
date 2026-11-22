@@ -1,0 +1,3 @@
+fault_rate=0.00100000 EAT_ns=8100.00
+fault_rate=0.00001000 EAT_ns=180.00
+fault_rate=0.00000100 EAT_ns=108.00

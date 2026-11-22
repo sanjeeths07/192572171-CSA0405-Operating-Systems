@@ -1,0 +1,4 @@
+Workers: 4
+Expected: 20000
+Actual: 20000
+Mutex protected critical section: PASS

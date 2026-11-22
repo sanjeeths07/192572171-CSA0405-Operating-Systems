@@ -1,0 +1,6 @@
+print("Bedside monitors: hard real-time OS, minimal services, interrupt-driven I/O")
+print("Tablets: hardened mobile OS, encryption, MDM, battery-aware scheduling")
+print("Workstations: managed desktop OS with endpoint protection")
+print("Records: clustered database, redundant storage and tested backups")
+print("Imaging: multiprocessor server and DMA-capable I/O")
+print("Remote/cloud: distributed services, TLS, identity, audit and recovery")

@@ -1,0 +1,7 @@
+logical=0 page=0 offset=0 physical=5120
+logical=100 page=0 offset=100 physical=5220
+logical=1024 page=1 offset=0 physical=9216
+logical=2048 page=2 offset=0 physical=1024
+logical=3500 page=3 offset=428 physical=4524
+32-bit / 4KB pages: 2^20 entries
+48-bit / 4KB pages: 2^36 entries in a single-level table

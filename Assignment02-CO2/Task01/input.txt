@@ -1,0 +1,4 @@
+Student: Sanjeeth S
+Register: 192572171
+Task: Processes and process states
+Input dataset is deterministic and declared in main.py.

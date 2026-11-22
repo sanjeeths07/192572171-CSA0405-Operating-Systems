@@ -1,0 +1,8 @@
+Hospital OS requirement ranking (1 = highest)
+1. Bedside monitor: 10 ms alarm deadline; proposed fit: hard real-time response
+1. Records database: continuous availability; proposed fit: cluster + failover
+2. Imaging server: high throughput; proposed fit: multiprocessor OS
+2. Partner link: secure data exchange; proposed fit: distributed services
+3. Nurse tablet: battery + mobility; proposed fit: handheld OS
+4. Workstation: interactive productivity; proposed fit: desktop OS
+Safety-critical: monitor alarm deadline and patient-record integrity/availability

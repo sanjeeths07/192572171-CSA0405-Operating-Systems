@@ -1,0 +1,4 @@
+Runtime-loaded shared library: /tmp/tmpmvk92eak/libmathlib.so
+dlsym-equivalent symbol secure_add(19,23)= 42
+Shared object size: 15016 bytes
+Address binding: runtime loader maps position-independent shared object into process address space
